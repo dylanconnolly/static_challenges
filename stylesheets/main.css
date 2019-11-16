@@ -26,3 +26,11 @@ nav {
 section {
   width: 1440px;
 }
+
+h2 {
+  font-size: 30;
+}
+
+p {
+  font-size: 14;
+}
